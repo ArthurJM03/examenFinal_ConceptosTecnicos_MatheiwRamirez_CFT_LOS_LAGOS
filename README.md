@@ -37,9 +37,9 @@ A continuación se describen los diferentes elementos que forman parte de la evi
 ![Portafolio 3](Capturas%20de%20Portafolio/portafolios3.png)
 
 ### Cuestionarios:
-![Cuestionario Unidad 1](Cuestionarios%20Quintos/CuestionarioUnidad1.png)
-![Cuestionario Unidad 2](Cuestionarios%20Quintos/CuestionarioUnidad2.png)
-![Cuestionario Unidad 3](Cuestionarios%20Quintos/CuestionarioUnidad3.png)
+![Cuestionario Unidad 1](Cuestionarios%20Quinttos/CuestionarioUnidad1.png)
+![Cuestionario Unidad 2](Cuestionarios%20Quinttos/CuestionarioUnidad2.png)
+![Cuestionario Unidad 3](Cuestionarios%20Quinttos/CuestionarioUnidad3.png)
 
 ### Perfil de LinkedIn:
 ![Perfil LinkedIn Acerca](Perfil%20LinkedIn/Perfil-linkedin-acerca_de.png)
