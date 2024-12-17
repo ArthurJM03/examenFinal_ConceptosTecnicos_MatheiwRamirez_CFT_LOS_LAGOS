@@ -31,26 +31,22 @@ A continuación se describen los diferentes elementos que forman parte de la evi
 
 ## Capturas de Pantalla
 
-### Portafolio 
-![Portafolio](portafolios1.png)
-![Portafolio](portafolios2.png)
-![Portafolio](portafolios3.png)
+### Portafolio
+![Portafolio](Capturas%20de%20Portafolio/portafolio.png)
+
 ### Cuestionarios:
-![Cuestionario Unidad 1](CuestionarioUnidad1.png)
-![Cuestionario Unidad 2](CuestionarioUnidad2.png)
-![Cuestionario Unidad 3](CuestionarioUnidad3.png)
+![Cuestionario Unidad 1](Cuestionarios%20Quintos/cuestionario1.png)
+![Cuestionario Unidad 2](Cuestionarios%20Quintos/cuestionario2.png)
+![Cuestionario Unidad 3](Cuestionarios%20Quintos/cuestionario3.png)
 
 ### Perfil de LinkedIn:
-![LinkedIn](Perfil-linkedin-link_github.png)
-![LinkedIn](Perfil-linkedin.png)
-![LinkedIn](Perfil-linkedin-acerca_de.png)
-
+![LinkedIn](Perfil%20LinkedIn/linkedin.png)
 
 ### Insignias de GitHub:
-![Insignias de GitHub](CapturasdeInsignias.png)
+![Insignias de GitHub](Insignias/insignia.png)
 
 ### Mis logros de Microsoft Learn:
-![Microsoft Learn](logros.png)
+![Microsoft Learn](Logros%20Microsoft%20Learn/microsoft-learn.png)
 
 ---
 
