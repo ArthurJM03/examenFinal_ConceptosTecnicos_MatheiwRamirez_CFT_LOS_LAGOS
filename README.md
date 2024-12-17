@@ -32,21 +32,26 @@ A continuación se describen los diferentes elementos que forman parte de la evi
 ## Capturas de Pantalla
 
 ### Portafolio
-![Portafolio](Capturas%20de%20Portafolio/portafolio.png)
+![Portafolio 1](Capturas%20de%20Portafolio/portafolios1.png)
+![Portafolio 2](Capturas%20de%20Portafolio/portafolios2.png)
+![Portafolio 3](Capturas%20de%20Portafolio/portafolios3.png)
 
 ### Cuestionarios:
-![Cuestionario Unidad 1](Cuestionarios%20Quintos/cuestionario1.png)
-![Cuestionario Unidad 2](Cuestionarios%20Quintos/cuestionario2.png)
-![Cuestionario Unidad 3](Cuestionarios%20Quintos/cuestionario3.png)
+![Cuestionario Unidad 1](Cuestionarios%20Quintos/CuestionarioUnidad1.png)
+![Cuestionario Unidad 2](Cuestionarios%20Quintos/CuestionarioUnidad2.png)
+![Cuestionario Unidad 3](Cuestionarios%20Quintos/CuestionarioUnidad3.png)
 
 ### Perfil de LinkedIn:
-![LinkedIn](Perfil%20LinkedIn/linkedin.png)
+![Perfil LinkedIn Acerca](Perfil%20LinkedIn/Perfil-linkedin-acerca_de.png)
+![Perfil LinkedIn GitHub](Perfil%20LinkedIn/Perfil-linkedin-link_github.png)
+![Perfil LinkedIn](Perfil%20LinkedIn/Perfil-linkedin.png)
 
-### Insignias de GitHub:
-![Insignias de GitHub](Insignias/insignia.png)
+### Insignias:
+![Insignias](Insignias/CapturasdeInsignias.png)
 
-### Mis logros de Microsoft Learn:
-![Microsoft Learn](Logros%20Microsoft%20Learn/microsoft-learn.png)
+### Logros de Microsoft Learn:
+![Logros](Logros%20Microsoft%20Learn/Logros.png)
+
 
 ---
 
