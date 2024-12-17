@@ -32,9 +32,9 @@ A continuación se describen los diferentes elementos que forman parte de la evi
 ## Capturas de Pantalla
 
 ### Portafolio 
-![Portafolio](portafoliomio.png)
-![Portafolio](formulario.png)
-
+![Portafolio](portafolios1.png)
+![Portafolio](portafolios2.png)
+![Portafolio](portafolios3.png)
 ### Cuestionarios:
 ![Cuestionario Unidad 1](CuestionarioUnidad1.png)
 ![Cuestionario Unidad 2](CuestionarioUnidad2.png)
